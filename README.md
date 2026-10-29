@@ -4,11 +4,11 @@
 
 # Michael Mutie
 
-Managing Director of **Silent Ramihel Limited** (formerly The Silent Guru Analytics).
+I am the Managing Director of **Silent Ramihel Limited** (formerly The Silent Guru Analytics).
 
 **Reliable Solutions. Global Reach.**
 
-Silent Ramihel has two service lines, led by data science and IT: analytics, machine learning, dashboards, automation, and Odoo integrations that turn operational data into something a team can use. The company also provides ship chandling — marine supplies and maritime support for vessels and operators.
+I run two service lines. Data science and IT come first: analytics, machine learning, dashboards, automation, and Odoo integrations that turn operational data into something a team can use. I also provide ship chandling — marine supplies and maritime support for vessels and operators.
 
 ## Skills
 
@@ -20,21 +20,21 @@ Silent Ramihel has two service lines, led by data science and IT: analytics, mac
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white">
 </p>
 
-Public work is in Python and Jupyter for data science, and Django and Flask for web applications, plus TypeScript on a 2024 hackathon build. Current interests include LLM applications, retrieval-augmented generation, and OpenVINO.
+I use Python and Jupyter for data science, and Django and Flask for web applications. I have also written TypeScript, including a 2024 hackathon build. I am exploring LLM applications, retrieval-augmented generation, and OpenVINO.
 
 ## Featured projects
 
 ### [Maritime supply and demand forecast](https://github.com/mutieMichael/maritime-supply-demand-forecast)
 
-Forecasting ship chandlery demand. This flagship showcase is still being filled in.
+How I forecast ship chandlery demand from the vessels due alongside.
 
 ### [Communicate data findings](https://github.com/mutieMichael/udacity-communicate-data-findings)
 
-Udacity data analyst nanodegree project: exploratory analysis of bike-share rides in the San Francisco Bay Area.
+My Udacity data analyst nanodegree project: an exploratory analysis of bike-share rides in the San Francisco Bay Area.
 
 ### [Hack24 Re-verse](https://github.com/MosDevx/Hack24-Re-verse)
 
-2024 hackathon project in TypeScript, on discipleship in the digital age.
+My 2024 hackathon project in TypeScript, on discipleship in the digital age.
 
 ## GitHub
 
